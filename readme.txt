@@ -1,7 +1,7 @@
 Hello, welcome to my GitHub.
 
 This was a project done for NUS HackNRoll 2019. 
-Created in collaboration with me (Git: EugeneTeu) , Stanley,  wei Liang and Chi hen.
+Created in collaboration with me (Git: EugeneTeu) , Stanley,  wei Liang  and Chi hen (koushiero).
 Was created over a span of 24 hrs. 
 
 
